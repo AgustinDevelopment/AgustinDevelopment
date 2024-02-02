@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Agustin Alanis</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Agustin Alanis</h1>
 <h3 align="center">I am a Systems Engineering student and passionate about Web Development.</h3>
 
 - 🔭 I’m currently working on [Optica Eiffel MVC](https://github.com/AgustinDevelopment/Optica-Eiffel-MVC)
