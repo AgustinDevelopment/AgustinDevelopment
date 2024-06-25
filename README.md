@@ -1,11 +1,11 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Agustin Alanis</h1>
 <h3 align="center">I am a Systems Engineering student and passionate about Web Development.</h3>
 
-- 🔭 I’m currently working on [Optica Eiffel MVC](https://github.com/AgustinDevelopment/Optica-Eiffel-MVC)
+- 🔭 I’m currently working on [StockMaster)
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
-- 💬 Ask me about **PHP, Python, Java, C++ and more**
+- 💬 Ask me about **PHP, Python, Java, C++, React, Typescript and more**
 
 - 📫 How to reach me **agusalanis.dev@gmail.com**
 
