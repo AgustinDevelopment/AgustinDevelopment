@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
-- 💬 Ask me about **PHP, Python, Java, C++, React, Typescript and more**
+- 💬 Ask me about **Typescript, Python, Java, C++, React, PHP  and more**
 
 - 📫 How to reach me **agusalanis.dev@gmail.com**
 
