@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on Touken: https://touken.co/
 
-- 📫 How to reach me **agusalanis.dev@gmail.com**
+- 📫 How to reach me **agusalanis.dev@gmail.com | https://www.linkedin.com/in/agust%C3%ADn-alanis-b468a4236/**
 
 - ⚡ Fun fact **I think that I am a productive person and eager to learn**
 
